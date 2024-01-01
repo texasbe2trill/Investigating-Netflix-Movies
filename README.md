@@ -1,5 +1,5 @@
 # Investigating-Netflix-Movies
-In this project, I utilize pandas and matplotlib to investigate a Netflix movie data set to determine if movie durations are becoming shorter. The result is displayed in a scatter plot.
+In this project, I utilize pandas and matplotlib to investigate a Netflix movie data set to determine if movie durations are becoming shorter over time. The result is displayed in a scatter plot.
 
 ![Movie popcorn on red background](redpopcorn.jpg)
 
@@ -25,5 +25,5 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 | `description` | Description of the show |
 | `genre` | Show genre |
 
-## Scattter Plot | Netflix Movie Durations by Release Year
+## Netflix Movie Durations by Release Year
 ![Scatter plot](output.png)
