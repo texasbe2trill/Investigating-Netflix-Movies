@@ -25,5 +25,5 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 | `description` | Description of the show |
 | `genre` | Show genre |
 
-## Netflix Movie Durations by Release Year
+## Netflix Movie Durations by Year of Release
 ![Scatter plot](output.png)
