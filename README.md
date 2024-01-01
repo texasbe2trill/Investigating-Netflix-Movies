@@ -25,7 +25,7 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 | `description` | Description of the show |
 | `genre` | Show genre |
 
-## Movie Durations by Year of Release
+## Movie Durations by Year of Release | Scatterplot
 I assigned colors to the genre row within the Netflix movie dataset. The Children genre is assigned the color blue, the Documentaries genre is assigned the color red, the Stand-Up genre is assigned the color green, and for all other genres the color assigned is orange. The scatterplot shows the duration of a movie on the y-axis and the release year on the x-axis. The scatterplot shows that we can't be certain if movie durations are getting shorter.
 
 ![Scatterplot](output.png)
