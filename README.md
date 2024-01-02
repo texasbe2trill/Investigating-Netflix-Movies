@@ -29,6 +29,6 @@ The scatterplot shows the duration of a movie on the y-axis and the release year
 
 I assigned colors to the genre row within the Netflix movie dataset. The Children genre is assigned the color blue, the Documentaries genre is assigned the color red, the Stand-Up genre is assigned the color green, and for all other genres the color assigned is orange.
 
-The scatterplot shows that we can't be certain that movie durations are indeed getting shorter.
+The scatterplot shows we can't be certain that movie durations are indeed getting shorter.
 
 ![Scatterplot](output.png)
