@@ -8,7 +8,7 @@ Given the large number of movies and series available on the platform, it is a p
 
 You have been supplied with the dataset `netflix_data.csv` , along with the following table detailing the column names and descriptions:
 
-## The data
+## The Data
 ### **netflix_data.csv**
 | Column | Description |
 |--------|-------------|
